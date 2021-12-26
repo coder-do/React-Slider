@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.prev {
+    background: url(./assets/back.png) center no-repeat;
+}
+
+.next {
+    background: url(./assets/forward.png) center no-repeat;
+}
