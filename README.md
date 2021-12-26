@@ -1,8 +1,7 @@
 
 ## Demo
 
-![](src/assets/demo.mp4)
-
+![Alt Text](src/assets/gif.gif)
 
 ## Available Scripts
 
